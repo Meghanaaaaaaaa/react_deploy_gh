@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_blog/static/css/main.67563552.css",
-    "main.js": "/react_blog/static/js/main.d0f8d387.js",
-    "index.html": "/react_blog/index.html",
-    "main.67563552.css.map": "/react_blog/static/css/main.67563552.css.map",
-    "main.d0f8d387.js.map": "/react_blog/static/js/main.d0f8d387.js.map"
+    "main.css": "/react_musicblog/static/css/main.67563552.css",
+    "main.js": "/react_musicblog/static/js/main.d0f8d387.js",
+    "index.html": "/react_musicblog/index.html",
+    "main.67563552.css.map": "/react_musicblog/static/css/main.67563552.css.map",
+    "main.d0f8d387.js.map": "/react_musicblog/static/js/main.d0f8d387.js.map"
   },
   "entrypoints": [
     "static/css/main.67563552.css",
