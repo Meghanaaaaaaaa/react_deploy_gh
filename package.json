@@ -1,7 +1,7 @@
 {
+  "homepage": "http://Meghanaaaaaaaa.github.io/react-blog",
   "name": "react-blog",
   "version": "0.1.0",
-  "homepage": "https://meghanaaaaaaaa.github.io/react_MB",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
