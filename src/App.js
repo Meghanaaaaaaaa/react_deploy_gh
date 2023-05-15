@@ -6,7 +6,7 @@ import PostPage from "./PostPage";
 import Missing from "./Missing";
 import Footer from "./Footer";
 import About from "./About";
-import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, HashRouter} from "react-router-dom";
 import { useState, useEffect } from "react";
 import { format } from 'date-fns';
 
@@ -74,6 +74,7 @@ function App() {
 
   
   return (
+    <HashRouter basename="/"> 
     <div className="App">
       <Router>
         <Header title="Music Blog"/>
@@ -92,6 +93,7 @@ function App() {
         <Footer />
       </Router>
     </div>
+    </HashRouter>
   );
 }
 
