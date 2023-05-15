@@ -74,7 +74,7 @@ function App() {
 
   
   return (
-    <HashRouter basename="/"> 
+   
     <div className="App">
       <Router>
         <Header title="Music Blog"/>
@@ -93,7 +93,7 @@ function App() {
         <Footer />
       </Router>
     </div>
-    </HashRouter>
+
   );
 }
 
